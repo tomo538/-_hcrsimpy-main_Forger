@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-11T18:03:34.019059",
+  "timestamp": "2026-05-19T21:49:55.364362",
   "best_params": {
-    "ts": 188,
-    "optimize_days": 29,
-    "pre_optlux": 1138.1918214453967,
-    "on_time": 17.27585271554666,
-    "off_time": 18.402954353222988
+    "ts": 42,
+    "optimize_days": 20,
+    "pre_optlux": 692.7404849583083,
+    "on_time": 21.197328013028212,
+    "off_time": 27.197328013028212
   },
-  "best_target": -9999.0,
+  "best_target": -9399.375,
   "J_threshold": 0.5
 }

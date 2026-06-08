@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-06-01T13:14:03.506378",
+  "best_params": {
+    "ts": 47,
+    "optimize_days": 1,
+    "pre_optlux": 969.02746648448,
+    "on_time": 24.0,
+    "off_time": 36.53185021718607
+  },
+  "best_target": -1.426904719584934,
+  "J_threshold": 0.5
+}
